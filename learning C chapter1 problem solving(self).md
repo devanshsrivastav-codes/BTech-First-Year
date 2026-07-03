@@ -54,3 +54,17 @@
 
 // after a single mistake this program is executed successfully
 //and the 2nd program is between line 38-53
+
+
+
+//program number 3
+// Question:
+
+// Take input from the user:
+
+// First letter of their name (char)
+// Age (int)
+// Height in feet (float)
+
+// Then print all the details.
+
