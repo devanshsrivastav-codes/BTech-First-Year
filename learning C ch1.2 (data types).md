@@ -13,6 +13,10 @@ int main(){
     char c;
     c = 'a';
 
+    printf("the value of a is %d\n", a);
+    printf("the value of a is %f\n", b);
+    printf("the value of a is %c\n", c);
+
 
     return 0;
 
