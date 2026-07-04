@@ -20,7 +20,7 @@
 // }
 
 // after to many mistake this program is executed successfully
-//and the 1st program is between line 9-20
+//and the 1st program is between line 11-20
 
 
 
@@ -68,3 +68,23 @@
 
 // Then print all the details.
 
+// #include <stdio.h>
+
+// int main(){
+//     char a;
+//     printf("first letter of your name");
+//     scanf(" %c", &a);
+//     int b;
+//     printf("enter your age");
+//     scanf(" %d", &b);
+//     float c;
+//     printf("enter your height in feet");
+//     scanf(" %f", &c);
+//     printf("the first letter of your name is %c\n",a);//printf("bla bla bla \n") this is not right.
+//     printf("your age is %d\n",b);                     //printf("bla bla bla %d/%f/%c...\n") this is right.
+//     printf("your height in feet is %f\n",c);
+//     return 0;
+// }
+
+// after a single mistake this program is executed successfully
+//and the 3rd program is between line 71-87
